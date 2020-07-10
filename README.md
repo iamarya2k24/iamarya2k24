@@ -31,8 +31,9 @@
 N/A
 -->
 
-- 💬 Ask me about 
+- 💬 Ask me about:
 
+I am open for discussions and creative projects feel free to contact me.
 
 You can checkout [my-blog](https://blog.n4vn33t.com) and [homepage](https://n4vn33t.com) to learn more about what I do.
 
