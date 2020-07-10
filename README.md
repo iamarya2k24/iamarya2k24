@@ -24,11 +24,12 @@
 2. Graphic designers for learning design with mentorship.
 
 
+<!---
 - 🤔 I’m looking for help with 
 
 
-T.B.A
-
+N/A
+---!>
 
 - 💬 Ask me about 
 
