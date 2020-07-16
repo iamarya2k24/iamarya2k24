@@ -41,7 +41,7 @@ You can checkout [my-blog](https://blog.n4vn33t.com) and [homepage](https://n4vn
 - 📫 How to reach me:  
 
 
-You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or chat(Jabber) - clickme.sh@xmpp.is
+You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or XMPP: clickme.sh@xmpp.is
 
 
 - ⚡ Fun fact: 
