@@ -21,7 +21,7 @@
 
 
 1. Study group for Networking classes
-2. Graphic designers for learning design with mentorship.
+2. UX/UI for Apps and Sites.
 
 
 <!--
