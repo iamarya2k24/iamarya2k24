@@ -11,17 +11,15 @@
 - 🌱 I’m currently learning 
 
 
-1. How to build virtualzied learning lab
+1. AWS
 2. Networking A-Z
-3. UI/UX basics (Typography, User interface design, building logical user experiences.
+3. UI/UX basics - Typography, User interface design, building logical user experiences.
 4. OpenWRT custom firmware development for my TP-Link Wr740n v4 router.
 
 
 - 👯 I’m looking to collaborate on 
 
-
-1. Study group for Networking classes
-2. UX/UI for Apps and Sites.
+- Anything that provokes my curiosity.
 
 
 <!--
@@ -33,13 +31,13 @@ N/A
 
 - 💬 Ask me about:
 
-I am open for discussions and creative projects feel free to contact me.
-
+Work/Life/Goals
 You can checkout [my-blog](https://blog.n4vn33t.com) and [homepage](https://n4vn33t.com) to learn more about what I do.
 
 
 - 📫 How to reach me:  
 
+I am avaialble for work.
 
 You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or XMPP: clickme.sh@xmpp.is
 
