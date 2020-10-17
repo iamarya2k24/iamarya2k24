@@ -1,43 +1,41 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with
+🔭 I’m currently working with
+
+- Homelab - Powered by Proxmox
 
 
-Homelab - Powered by Proxmox
+🌱 I’m currently learning 
 
 
-- 🌱 I’m currently learning 
+- AWS & Cloud Computing
+
+- Networking Concepts
+
+- UI/UX basics - Typography, UI/UX.
+
+- OpenWRT custom firmware development for my TP-Link Wr740n v4 router.
 
 
-AWS & Cloud Computing
+👯 I’m looking to collaborate on 
 
-Networking Concepts
-
-UI/UX basics - Typography, UI/UX.
-
-OpenWRT custom firmware development for my TP-Link Wr740n v4 router.
-
-
-- 👯 I’m looking to collaborate on 
-
-
-Anything that provokes my curiosity.
+- Anything that provokes my curiosity.
 
 <!--
 - 🤔 I’m looking for help with 
 N/A
 -->
 
-- 💬 Ask me about:
+💬 Ask me about:
 
 
-Work/Life/Goals
+- Work/Life/Goals
 
 
-You can checkout [my-blog](https://blog.n4vn33t.com) and [homepage](https://n4vn33t.com) to learn more about what I do.
+- You can checkout [my-blog](https://blog.n4vn33t.com) and [homepage](https://n4vn33t.com) to learn more about what I do.
 
 
-- 📫 How to reach me:  
+📫 How to reach me:  
 
 
-You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or XMPP: clickme.sh@xmpp.is
+- You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or XMPP: clickme.sh@xmpp.is
