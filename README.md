@@ -39,3 +39,5 @@ N/A
 
 
 - You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or XMPP: clickme.sh@xmpp.is
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navneet-Suresh&show_icons=true&theme=vue-dark&count_private=true)
