@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working with
+🔭 Current setup:
 
-- Homelab - Powered by Proxmox
+- Homelab powered by Proxmox VE Community Edition.
+- Avita Notebook running on Pop OS 20.10.
+- Windows Desktop for Gaming.
 
 
 🌱 I’m currently learning 
@@ -10,7 +12,7 @@
 
 - AWS & Cloud Computing
 
-- Networking Concepts
+- Networking
 
 - UI/UX basics - Typography, UI/UX.
 
