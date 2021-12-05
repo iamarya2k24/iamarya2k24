@@ -1,12 +1,20 @@
-### Hi there 👋
+# meta-arya
 
-🔭 Current setup:
+## About Me
 
-- Homelab powered by Proxmox VE Community Edition.
-- Avita Notebook running on Ubuntu Gnome 20.04 LTS.
-- Windows Desktop for Gaming/Media.
+Arya N (She/Her) a.k.a. Navaneethakrishnan is an IT Consultant with 5+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
 
+## Skills
 
-📫 How to reach me:  
+I am adept in Maintaining Cloud services, configuring and troubleshooting linux boxes, and I am learning Python, CSS, JS, Perl(Mojolicious).
 
-- You can contact me via [my-portfolio](https://hire.n4vn33t.com) or via email - hello [at] n4vn33t.com or XMPP: clickme.sh@xmpp.is
+## Hobbies
+My hobbies are drawing, listening to music, working on my homelab, spending time in nature/green spaces.
+
+## Experience
+I have got the opportunity to work with industries best people and continue to strive to build a great network of talented individuals/groups and companies.
+
+I exclusively work on projects that are interesting, exciting and lucrative to me and help me achieve my potential.
+
+You can also Hire me on [Fiverr](https://www.fiverr.com/snavneet) or [contact me](https://www.iamarya.com/contact/).
+
