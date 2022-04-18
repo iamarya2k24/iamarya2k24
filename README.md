@@ -16,5 +16,5 @@ I have got the opportunity to work with industries best people and continue to s
 
 I exclusively work on projects that are interesting, exciting and lucrative to me and help me achieve my potential.
 
-You can also Hire me on [Fiverr](https://www.fiverr.com/snavneet) or [contact me](https://www.iamarya.com/contact/).
+[contact me](https://www.iamarya.com/contact/).
 
