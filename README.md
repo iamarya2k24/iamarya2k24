@@ -2,11 +2,11 @@
 
 ## About Me
 
-Arya N a.k.a. Navaneethakrishnan is an IT Consultant with 5+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
+Arya N (She/Her) a.k.a. Navaneethakrishnan is an IT Consultant with 5+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
 
 ## Skills
 
-I am adept in Maintaining Cloud services, configuring and troubleshooting linux boxes, and I am learning Python, CSS, JS, Perl(Mojolicious).
+I am adept in Maintaining Cloud services, configuring and troubleshooting linux boxes, and I am learning Go for fun :) .
 
 ## Hobbies
 My hobbies are drawing, listening to music, working on my homelab, spending time in nature/green spaces.
@@ -17,4 +17,6 @@ I have got the opportunity to work with industries best people and continue to s
 I exclusively work on projects that are interesting, exciting and lucrative to me and help me achieve my potential.
 
 [contact me](https://www.iamarya.com/contact/).
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=fd3e823c9bcd&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
