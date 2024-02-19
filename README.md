@@ -2,7 +2,7 @@
 
 ## About Me
 
-Arya N (She/Her) a.k.a. Navaneethakrishnan is an IT Consultant with 5+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
+Arya N (She/Her) is an IT Consultant with 5+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
 
 ## Skills
 
