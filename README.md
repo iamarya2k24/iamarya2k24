@@ -1,4 +1,4 @@
-# meta-arya
+# Arya Navneet
 
 ## About Me
 
@@ -16,6 +16,8 @@ I have got the opportunity to work with industries best people and continue to s
 
 I exclusively work on projects that are interesting, exciting and lucrative to me and help me achieve my potential.
 
-[contact me](https://www.iamarya.com/contact/).
+## Support me on BMC
+
+https://buymeacoffee.com/h8mbzhkkq
 
 
