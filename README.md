@@ -12,7 +12,7 @@ Arya N (She/Her) is an IT Consultant with 7+ Years of experience in managing IT 
 I am adept in Maintaining Cloud services, configuring and troubleshooting linux boxes, and I am learning Go for fun :) .
 
 ## Hobbies
-My hobbies are drawing, listening to music, working on my homelab, spending time in nature/green spaces.
+My hobbies are Drawing/Sketching/Doodling, Football, Skateboarding, Reading, spending time in nature/green spaces.
 
 ## Experience
 I have got the opportunity to work with industries best people and continue to strive to build a great network of talented individuals/groups and companies.
