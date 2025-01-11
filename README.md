@@ -5,7 +5,7 @@
 
 ## About Me
 
-Arya N (She/Her) is an IT Consultant with 5+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
+Arya N (She/Her) is an IT Consultant with 7+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
 
 ## Skills
 
@@ -22,5 +22,9 @@ I exclusively work on projects that are interesting, exciting and lucrative to m
 ## Support me on BMC
 
 https://buymeacoffee.com/h8mbzhkkq
+
+## My Public Speaking/Tech Talks
+
+> https://fosstodon.org/@null0x0/113811950712737479
 
 
