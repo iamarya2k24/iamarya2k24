@@ -23,8 +23,18 @@ I exclusively work on projects that are interesting, exciting and lucrative to m
 
 https://buymeacoffee.com/h8mbzhkkq
 
+<img src="https://github.com/user-attachments/assets/7d4a9631-535d-4569-aebc-9b7226e2d303" alt="buymeacoffee QR" width="25%"/> 
+
+
 ## My Public Speaking/Tech Talks
 
 > https://fosstodon.org/@null0x0/113811950712737479
+
+
+## Keep web free from crypto/web3 buzz!
+![web3](https://github.com/user-attachments/assets/14b2a214-c584-4720-be4e-28a36215b066) 
+
+https://www.web3isgoinggreat.com/
+
 
 
