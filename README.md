@@ -36,5 +36,9 @@ https://buymeacoffee.com/h8mbzhkkq
 
 https://www.web3isgoinggreat.com/
 
+## My resume
+
+[Download my latest resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf)
+
 
 
