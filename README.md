@@ -36,6 +36,12 @@ https://buymeacoffee.com/h8mbzhkkq
 
 https://www.web3isgoinggreat.com/
 
+## Proudly support 
+
+<img src="https://github.com/user-attachments/assets/5e36b01b-a743-4f1a-9c8a-749117f815c2" alt="EFF" width="100px"/>  <img src="https://github.com/user-attachments/assets/a911c1b6-6035-4b32-aba0-7ae37d546687" alt="OSS" width="100px"/> 
+
+
+
 ## My resume
 
 [Download my latest resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf)
