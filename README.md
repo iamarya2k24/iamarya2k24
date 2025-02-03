@@ -25,6 +25,9 @@ https://buymeacoffee.com/h8mbzhkkq
 
 <img src="https://github.com/user-attachments/assets/7d4a9631-535d-4569-aebc-9b7226e2d303" alt="buymeacoffee QR" width="25%"/> 
 
+## Via Liberapay
+
+<a href="https://liberapay.com/meta_arya/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 ## My Public Speaking/Tech Talks
 
