@@ -19,19 +19,26 @@ I have got the opportunity to work with industries best people and continue to s
 
 I exclusively work on projects that are interesting, exciting and lucrative to me and help me achieve my potential.
 
-## Support me on BMC
+## My Public Speaking/Tech Talks
+
+### Gitea - An opensource lightweight alternative to GitHub with CI & More features built with go.
+
+<a href="https://www.youtube.com/live/zbFK41HRKDY?t=7089s"><img src="https://github.com/user-attachments/assets/097d4363-c744-441e-bfce-08eee77e57b4" alt="MyFossTalk" width="45%"/></a>
+
+**Fosstodon thread on the same.**
+> https://fosstodon.org/@null0x0/113811950712737479
+
+## Support me:
+
+**BuyMeaCoffee**
 
 https://buymeacoffee.com/h8mbzhkkq
 
 <img src="https://github.com/user-attachments/assets/7d4a9631-535d-4569-aebc-9b7226e2d303" alt="buymeacoffee QR" width="25%"/> 
 
-## Via Liberapay
+**Liberapay**
 
 <a href="https://liberapay.com/meta_arya/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-
-## My Public Speaking/Tech Talks
-
-> https://fosstodon.org/@null0x0/113811950712737479
 
 
 ## Keep web free from crypto/web3 buzz!
@@ -43,9 +50,7 @@ https://www.web3isgoinggreat.com/
 
 <img src="https://github.com/user-attachments/assets/5e36b01b-a743-4f1a-9c8a-749117f815c2" alt="EFF" width="100px"/>  <img src="https://github.com/user-attachments/assets/a911c1b6-6035-4b32-aba0-7ae37d546687" alt="OSS" width="100px"/> 
 
-
-
-## My resume
+**Interested in hiring me? You can find my resume below.**
 
 [Download my latest resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf)
 
