@@ -7,19 +7,9 @@
 
 Arya N (She/Her) is an IT Consultant with 7+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
 
-## Skills
+In my previous role as a Solution architect/Migration SME, I was responsible for building cloud migration strategies which were scalable, resilient and fault-tolerant. I lead a team of Migration engineers and SA and worked with customer CXO to understand their current cloud landscape and introduce best practices & guidance on technology. I worked with a diverse and talented team that shares my passion for innovation, excellence, and social impact.
 
-I am adept in Maintaining Cloud services, configuring and troubleshooting linux boxes, and I am learning Go for fun :) .
-
-## Hobbies
-My hobbies are Drawing/Sketching/Doodling, Football, Skateboarding, Reading, spending time in nature/green spaces.
-
-## Experience
-I have got the opportunity to work with industries best people and continue to strive to build a great network of talented individuals/groups and companies.
-
-I exclusively work on projects that are interesting, exciting and lucrative to me and help me achieve my potential.
-
-## My Public Speaking/Tech Talks
+## Techtalks
 
 ### Gitea - An opensource lightweight alternative to GitHub with CI & More features built with go.
 
