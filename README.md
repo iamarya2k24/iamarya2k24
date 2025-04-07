@@ -1,48 +1,52 @@
-# Arya Navneet
-
-<img src="https://github.com/user-attachments/assets/72b94d47-d21f-4c3e-9a5b-1ef402f3a9df" width=80%>
-
-
-## About Me
-
-Arya N (She/Her) is an IT Consultant with 7+ Years of experience in managing IT Infrastructure, Troubleshooting Linux boxes and providing software development services for clients from all around the world.
-
-In my previous role as a Solution architect/Migration SME, I was responsible for building cloud migration strategies which were scalable, resilient and fault-tolerant. I lead a team of Migration engineers and SA and worked with customer CXO to understand their current cloud landscape and introduce best practices & guidance on technology. I worked with a diverse and talented team that shares my passion for innovation, excellence, and social impact.
-
-## Techtalks
-
-### Gitea - An opensource lightweight alternative to GitHub with CI & More features built with go.
-
-<a href="https://www.youtube.com/live/zbFK41HRKDY?t=7089s"><img src="https://github.com/user-attachments/assets/097d4363-c744-441e-bfce-08eee77e57b4" alt="MyFossTalk" width="45%"/></a>
-
-**Fosstodon thread on the same.**
-> https://fosstodon.org/@null0x0/113811950712737479
-
-## Support me:
-
-**BuyMeaCoffee**
-
-https://buymeacoffee.com/h8mbzhkkq
-
-<img src="https://github.com/user-attachments/assets/7d4a9631-535d-4569-aebc-9b7226e2d303" alt="buymeacoffee QR" width="25%"/> 
-
-**Liberapay**
-
-<a href="https://liberapay.com/meta_arya/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+**Arya Navneet (She/Her)
+Cloud & Infrastructure Consultant | Solution Architect | Open for Contracts & Roles**
 
 
-## Keep web free from crypto/web3 buzz!
-![web3](https://github.com/user-attachments/assets/14b2a214-c584-4720-be4e-28a36215b066) 
-
-https://www.web3isgoinggreat.com/
-
-## Proudly support 
-
-<img src="https://github.com/user-attachments/assets/5e36b01b-a743-4f1a-9c8a-749117f815c2" alt="EFF" width="100px"/>  <img src="https://github.com/user-attachments/assets/a911c1b6-6035-4b32-aba0-7ae37d546687" alt="OSS" width="100px"/> 
-
-**Interested in hiring me? You can find my resume below.**
-
-[Download my latest resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/meta-arya/) * 📧 [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com) * 📄 [Download My Resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf) 
 
 
+**Seeking Expert Cloud Solutions? Let's Connect!**
 
+I am a results-oriented IT Consultant and Solution Architect with over 7 years of experience specializing in designing, implementing, migrating, and managing robust, scalable, and cost-efficient cloud infrastructures. My expertise spans IT infrastructure management, Linux systems administration, and delivering tailored cloud solutions for global clients.
+
+I excel at developing comprehensive cloud strategies, leading migration projects, and providing technical leadership. I have a proven track record of collaborating with stakeholders at all levels, from engineering teams to C-suite executives, to align technology solutions with business objectives.
+
+**Core Expertise:**
+
+* ☁️ Cloud Strategy & Architecture (AWS, Azure): Designing resilient, secure, and scalable cloud environments utilizing services such as EC2, S3, Lambda, VPC (AWS) and Virtual Machines, Azure Functions, Azure Networking (Azure).
+* 🚀 Cloud Migration: Planning and executing seamless migrations with minimal disruption.
+* 🐧 Linux Infrastructure Management: Deep expertise in administration, troubleshooting, and performance tuning.
+* 🛠️ DevOps & Automation: Implementing CI/CD pipelines, Infrastructure as Code (IaC) using tools like Docker, Kubernetes, Terraform, and Ansible.
+* 💡 Problem Solving & Optimization: Identifying technical challenges and optimizing systems for performance and cost, resulting upto 20% reduction in cloud expenditure.
+
+**How I Can Help You:**
+
+I am actively seeking opportunities where I can leverage my skills to drive cloud adoption and innovation.
+
+**Available For:**
+
+* Cloud Consulting Engagements: Strategy development, migration planning & execution, architecture reviews, cost optimization.
+* Contract Roles: Solution Architect, Cloud Engineer, Infrastructure Specialist.
+* Full-Time Positions: Challenging roles in cloud architecture and infrastructure management.
+
+**Ready to discuss your project or role?**
+
+➡️ Get in Touch via [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com)
+➡️ Connect on [LinkedIn](https://www.linkedin.com/in/meta-arya/)
+➡️ View My [Resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf)
+
+**Technical Toolkit:**
+
+* AWS: EC2, S3, Lambda, VPC
+* Azure: Virtual Machines, Azure Functions, Azure Networking
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* CI/CD: Jenkins, Git
+* Linux: System Administration, Shell Scripting
+
+**Knowledge Sharing & Community:**
+
+**My Values:**
+
+* 🌐 I advocate for an open, decentralized web, free from unnecessary hype. (Thoughts on Web3)
+* Proud Supporter Of: FOSS, EFF
