@@ -16,7 +16,7 @@
 Cloud & Infrastructure Consultant | Solution Architect | Open for Contracts & Roles**
 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/meta-arya/) * 📧 [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com) * 📄 [Download My Resume](https://github.com/user-attachments/files/18631548/AryaNavneet-2025-Latest-Resume.pdf) 
+🔗 [LinkedIn](https://www.linkedin.com/in/meta-arya/) * 📧 [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com) * 📄 [Download My Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/my-resume.pdf)
 
 
 **Seeking Expert Cloud Solutions? Let's Connect!**
