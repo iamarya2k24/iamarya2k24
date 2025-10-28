@@ -51,11 +51,11 @@ I am actively seeking opportunities where I can leverage my skills to drive clou
 
 **Technical Toolkit:**
 
-* AWS: EC2, S3, Lambda, VPC
-* Azure: Virtual Machines, Azure Functions, Azure Networking
+* AWS: EC2, S3, Lambda, VPC, Databases
+* Vultr, Linode, Digital Ocean, OVH: Virtual Machines, Serverless, Object Storage and Managed Databases
 * Containerization: Docker, Kubernetes
 * Infrastructure as Code: Terraform, Ansible
-* CI/CD: Jenkins, Git
+* CI/CD: GitHub Actions, DroneCI, Git
 * Linux: System Administration, Shell Scripting
 
 **Knowledge Sharing & Community:**
