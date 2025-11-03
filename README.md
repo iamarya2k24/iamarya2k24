@@ -64,3 +64,7 @@ I am actively seeking opportunities where I can leverage my skills to drive clou
 
 * 🌐 I advocate for an open, decentralized web, free from unnecessary hype. (Thoughts on Web3)
 * Proud Supporter Of: FOSS, EFF
+
+**Learning progress tracker:**
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6908ef90b0418a041e9ae31e?variant=dark&roadmaps=devops%2Clinux%2Caws%2Cgolang)](https://roadmap.sh)
