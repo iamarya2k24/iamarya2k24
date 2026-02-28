@@ -1,19 +1,4 @@
-
-```
-
-   ('-.     _  .-')                ('-.               .-') _    ('-.          (`-.        .-') _   ('-.     ('-.   .-') _    
-  ( OO ).-.( \( -O )              ( OO ).-.          ( OO ) )  ( OO ).-.    _(OO  )_     ( OO ) )_(  OO)  _(  OO) (  OO) )   
-  / . --. / ,------.   ,--.   ,--./ . --. /      ,--./ ,--,'   / . --. /,--(_/   ,. \,--./ ,--,'(,------.(,------./     '._  
-  | \-.  \  |   /`. '   \  `.'  / | \-.  \       |   \ |  |\   | \-.  \ \   \   /(__/|   \ |  |\ |  .---' |  .---'|'--...__) 
-.-'-'  |  | |  /  | | .-')     /.-'-'  |  |      |    \|  | ).-'-'  |  | \   \ /   / |    \|  | )|  |     |  |    '--.  .--' 
- \| |_.'  | |  |_.' |(OO  \   /  \| |_.'  |      |  .     |/  \| |_.'  |  \   '   /, |  .     |/(|  '--. (|  '--.    |  |    
-  |  .-.  | |  .  '.' |   /  /\_  |  .-.  |      |  |\    |    |  .-.  |   \     /__)|  |\    |  |  .--'  |  .--'    |  |    
-  |  | |  | |  |\  \  `-./  /.__) |  | |  |      |  | \   |    |  | |  |    \   /    |  | \   |  |  `---. |  `---.   |  |    
-  `--' `--' `--' '--'   `--'      `--' `--'      `--'  `--'    `--' `--'     `-'     `--'  `--'  `------' `------'   `--'    
-
-```
-
-**Cloud & Infrastructure Consultant | Solution Architect | Open for Contracts & Roles**
+**Cloud & Infrastructure Consultant | SRE, Linux SysAdmin, Cloud Solution Architect | Open for Contracts & Roles**
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/meta-arya/) * 📧 [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com) * 📄 [Download My Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/my-resume.pdf)
