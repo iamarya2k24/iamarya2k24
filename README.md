@@ -53,7 +53,7 @@ I am actively seeking opportunities where I can leverage my skills to drive clou
 **Proud Supporter Of:**
   
 | I Love | Open Source |
-| --- | ----------- |
+| :---: | :-----------: |
 | <img width="300" alt="OSI_badge-edited-300x300" src="https://github.com/user-attachments/assets/07bd0f28-3d5e-40f8-b1fe-e4049a610203" />	 | <img width="216" alt="2020-membership-badge-2" src="https://github.com/user-attachments/assets/72c3d040-ce59-420c-ac2c-6305ca51f2fc" /> |
 | <img width="300" alt="Screenshot 2026-02-27 8 37 54 AM" src="https://github.com/user-attachments/assets/a252994d-3ac6-4903-a53c-d7420b805b2d" /> | <img width="131" alt="Authored-By-a-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/536eb17c-7873-479f-ad4a-60d613999c6d" /> |
 
