@@ -2,7 +2,7 @@
 
 | LinkedIn | E-Mail | Resume | Blog |
 | :---: | :---: | :---: | :---: |
-| 🔗 [LinkedIn](https://www.linkedin.com/in/meta-arya/) | 📧 [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com) | 📄 [Download My Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/my-resume.pdf) | 🔗 [notes by arya](https://iamarya2k24.github.io)
+| 🔗 [LinkedIn](https://www.linkedin.com/in/meta-arya/) | 📧 [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com) | 📄 [Download My Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/arya-latest-resume.pdf) | 🔗 [notes by arya](https://iamarya2k24.github.io)
 
 
 **Seeking Cloud Solutions Expert? Let's Connect!**
