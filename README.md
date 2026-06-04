@@ -33,7 +33,7 @@ I am actively seeking opportunities where I can leverage my skills to drive clou
 
 ➡️ Get in Touch via [n.arya2k21+github@gmail.com](mailto:n.arya2k21+github@gmail.com)
 ➡️ Connect on [LinkedIn](https://www.linkedin.com/in/meta-arya/)
-➡️ View My [Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/my-resume.pdf)
+➡️ View My [Resume](https://github.com/iamarya2k24/yaml-resume/blob/main/arya-latest-resume.pdf)
 
 **Technical Toolkit:**
 
